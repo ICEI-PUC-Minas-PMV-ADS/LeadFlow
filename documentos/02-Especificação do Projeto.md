@@ -5,22 +5,21 @@
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 1: Aluno </th>
+<th colspan="2">Perfil 1: Gestor </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Aluno do ensino superior, seja educação pública ou privada. 
+Responsável pela gestão da equipe de vendas e pelo acompanhamento estratégico do negócio. Possui experiência intermediária com tecnologia e utiliza ferramentas de planilhas no dia a dia. 
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Acesso fácil e rápido a conteúdos didáticos de qualidade, sem custo adicional à sua vida acadêmica; 
-2. Utilizar ambientes digitais em que esteja familiarizado; 
-3. Conteúdos apresentados em mídias diversificadas;
-4. Possibilidade de apoio de um monitor/tutor;
-5. Exercícios de fixação com resolução. 
+1. Visualizar métricas e indicadores de desempenho no dashboard; 
+2. Ter uma visão geral das interações com todos os clientes; 
+3. Tomar decisões estratégicas com base em dados visuais (gráficos e relatórios).
+  
 </td>
 </tr>
 </tbody>
@@ -29,12 +28,12 @@ Aluno do ensino superior, seja educação pública ou privada.
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 2: Ex-aluno </th>
+<th colspan="2">Perfil 2: Vendedor </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Ex-aluno do ensino superior. 
+Responsável pelo atendimento e pelas vendas diretamente com o cliente. Utiliza o sistema diariamente para registrar e acompanhar negociações. Conhecimento básico a intermediário em tecnologia. 
 </td>
 </tr>
 <tr>
