@@ -20,29 +20,35 @@ Diante desse contexto, evidencia-se a necessidade de desenvolvimento de uma solu
 
 ## Objetivos
 
-O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
+Desenvolver uma aplicação de CRM que ajude empresas a organizar e gerenciar as informações de seus clientes de forma simples, centralizada e eficiente, facilitando o acompanhamento das interações e do processo de vendas.
 
 Como objetivos específicos, podemos destacar:
 
-* Oferecer uma plataforma de uso gratuito para apoiar alunos de graduação em seu desenvolvimento acadêmico;
-* Auxiliar estes alunos na troca de livros didáticos, de referência e literatura;
-* Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.
+* Permitir que usuários criem uma conta e façam login na plataforma.
+* Permitir o cadastro e gerenciamento de clientes.
+* Disponibilizar funcionalidades para listar, editar e excluir clientes cadastrados.
+* Implementar um funil de vendas para acompanhar o status de cada cliente durante o processo comercial.
+* Permitir o registro de interações realizadas com os clientes, como contatos, propostas ou observações.
+* Disponibilizar o histórico dessas interações para facilitar o acompanhamento do relacionamento com cada cliente.
+
 
 
 
 ## Justificativa
 
-De acordo com Oliveira e Santos (2012) citado por Fialho e Sousa (2019, p. 211):
+O uso de CRM contribui significativamente para melhoria na gestão de clientes, aumento de vendas e produtividade. Pequenos empreendedores, no entanto, muitas vezes não possuem acesso a ferramentas acessíveis, tornando relevante o desenvolvimento de uma solução simples e de baixo custo.
 
-"A internet, prioritariamente as redes sociais, consiste em um campo que possibilita atuações diferenciadas por seus usuários. Para o público juvenil, por exemplo, as redes são mais do que um ambiente utilizado para se relacionar, pois também é espaço de aprendizado, de expressão e de troca de experiências."
+Pesquisas mostram que o uso de sistemas de CRM pode trazer melhorias importantes para as empresas. Estudos indicam que essas ferramentas podem aumentar a retenção de clientes em até 27% (CLIENTAR CRM, 2023) e que cerca de 91% das empresas com mais de 10 funcionários já utilizam algum tipo de CRM para melhorar o relacionamento com seus clientes (AGÊNCIA MESTRE, 2023).
 
-Portanto, a criação de uma aplicação web para a resolução deste problema foi motivada pela presença da internet na vida dos jovens, e os fins diversos aos quais estes a utilizam.
+Além disso, empresas que adotam CRM reportam aumento médio de 29% nas vendas e de 34% na produtividade da equipe comercial (SALESFORCE, 2023).
+
+Por isso, o desenvolvimento de um sistema CRM se torna uma solução relevante para centralizar informações e tornar os processos mais organizados e eficientes, especialmente para pequenos empreendedores que não têm acesso ou recursos para sistemas robustos e pagos.
 
 
 ## Público-Alvo
 
-Embora os desafios citados possam ocorrer desde o início da vida escolar dos estudantes, o foco deste trabalho está no público de graduação.
+O público-alvo deste projeto são microempreendedores, freelancers, pequenas e médias empresas, especialmente profissionais como gestores, vendedores e atendentes que precisam organizar melhor as informações de clientes e acompanhar atendimentos e vendas.
 
-Assim, estabeleceu-se como público-alvo desta solução homens e mulheres entre 18 e 24 anos, pois além de terem maior autonomia em seus estudos, eles também enfrentam os obstáculos da transição para a vida universitária, como a necessidade de rápida adaptação, e tais mudanças podem afetar o seu desempenho acadêmico.
+O público possui conhecimentos básicos de informática, como uso de computadores e planilhas, e necessita de um sistema simples, prático e que facilite a organização das informações sem exigir treinamento especializado.
 
 Além dos alunos de graduação com o perfil citado acima, o projeto também é voltado para ex-alunos que pretendem atuar como tutores e contribuir com o aprendizado dos alunos de graduação.
