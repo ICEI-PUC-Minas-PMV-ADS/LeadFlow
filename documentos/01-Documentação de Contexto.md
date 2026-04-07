@@ -9,7 +9,13 @@ Dessa forma, torna-se necessário cobrir essa lacuna enfrentada pelos estudantes
 
 ## Problema
 
-Diante do exposto, o desafio que se busca superar com este projeto é a falta de suporte enfrentada por alunos do ensino superior no que se refere às fontes de informações e conhecimentos necessários para um bom aproveitamento acadêmico.
+Microempreendedores, freelancers e pequenas empresas apresentam limitações significativas na gestão estruturada das informações relacionadas aos seus clientes. Em muitos casos, esses dados são armazenados de forma descentralizada, distribuídos entre planilhas eletrônicas, registros informais e aplicativos de comunicação, sem a adoção de um sistema integrado.
+
+Essa abordagem fragmentada compromete a integridade, a consistência e a rastreabilidade das informações, dificultando o acompanhamento do histórico de interações e o controle do ciclo de vida das negociações. Como consequência, observa-se uma redução na eficiência operacional, evidenciada por atrasos no atendimento, perda de dados relevantes e falhas no acompanhamento de oportunidades comerciais.
+
+Adicionalmente, a ausência de uma ferramenta centralizada limita a capacidade de análise e monitoramento dos processos comerciais, impactando negativamente a tomada de decisões estratégicas e o desempenho organizacional.
+
+Diante desse contexto, evidencia-se a necessidade de desenvolvimento de uma solução tecnológica que possibilite a centralização, organização e gerenciamento das informações dos clientes, promovendo maior controle sobre as interações, padronização dos processos e otimização da gestão do relacionamento com o cliente.
 
 
 ## Objetivos
